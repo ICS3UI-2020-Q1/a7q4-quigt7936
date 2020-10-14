@@ -1,6 +1,6 @@
 import java.util.Scanner;
 /**
- *
+ * This program finds the last digit of a number
  * @author Thomas Quigley
  */
 public class Main {
